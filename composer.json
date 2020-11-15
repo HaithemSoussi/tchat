@@ -1,0 +1,22 @@
+{
+    "name": "tchat/tchat",
+    "description": "Test technique d'application de chat",
+    "type": "library",
+    "license": "FREE",
+    "authors": [
+        {
+            "name": "SOUSSI Haithem",
+            "email": "haithem.soussi@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "haithem.soussi@gmail.com"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }     
+    },
+    "require" : {}
+}
