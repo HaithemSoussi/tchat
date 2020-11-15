@@ -33,7 +33,7 @@ class Users extends Controller{
         if(isset($send)){
 
             $message = $message.''.$id;
-           var_dump($message);
+         //  var_dump($message);
           /*var_dump("$message$id");
           var_dump($senderpseudo = $ps['pseudo']);*/
            /*$groupe_id = 1;*/
